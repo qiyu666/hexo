@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hexo快速入门
 ---
 欢迎来到[Hexo](https://hexo.io/)!这是你的第一篇文章。查看[文档](https://hexo.io/zh-cn/docs/)以获取更多信息。如果您在使用 Hexo 时遇到任何问题，您可以在 [故障排除](https://hexo.io/zh-cn/docs/troubleshooting.html) 中找到答案，也可以在[GitHub](https://github.com/hexojs/hexo/issues).上询问我。
 
